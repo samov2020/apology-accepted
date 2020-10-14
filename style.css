@@ -104,3 +104,8 @@ hr.light-100{
     width: 75%;
     margin-top: .8rem;
 }
+@media screen and (max-width: 768px) {
+    h1{
+        font-size:14px;
+    }
+}
